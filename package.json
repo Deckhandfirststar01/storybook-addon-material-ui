@@ -90,6 +90,6 @@
     "@storybook/addons": "^3.4.6",
     "js-beautify": "^1.7.3",
     "react-material-color-picker": "^1.1.2",
-    "react-split-pane": "^0.1.66"
+    "react-split-pane": "^0.1.92"
   }
 }
