@@ -88,7 +88,7 @@
   },
   "dependencies": {
     "@storybook/addons": "^3.4.6",
-    "js-beautify": "^1.7.3",
+    "js-beautify": "^1.14.1",
     "react-material-color-picker": "^1.1.2",
     "react-split-pane": "^0.1.66"
   }
